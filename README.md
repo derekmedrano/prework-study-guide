@@ -4,16 +4,6 @@
 
 The prework-study-guide is a webpage intended for studying and preparing for coding bootcamp. I built the project to not only have the resource, but also to learn coding fundementals before class even starts. I now am fully prepared for class and have set up, downloaded, and/or installed all the necessary resources. I learned very basic knowledge of HTML, CSS, JavaScript, and Git.
 
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 N/A
